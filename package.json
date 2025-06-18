@@ -36,7 +36,7 @@
   "dependencies": {
     "@discordjs/uws": "11.149.1",
     "anchorme": "^1.1.2",
-    "canvas": "2.2.0",
+    "canvas": "2.8.0",
     "cookie-parser": "^1.4.3",
     "discord.js": "github:discordjs/discord.js",
     "express": "^4.16.4",
